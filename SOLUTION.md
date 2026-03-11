@@ -133,5 +133,5 @@ docker-compose up --build
 - Backend API: `http://localhost:5000`
 
 ## GitHub Link
-
+https://github.com/usmanmaqsood351/Realtime-Stock-Update-Dashboard.git
 

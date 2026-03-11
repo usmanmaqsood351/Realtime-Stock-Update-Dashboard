@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InventoryDashboard.Application/1.0.0": {
+        "dependencies": {
+          "InventoryDashboard.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InventoryDashboard.Application.dll": {}
+        }
+      },
+      "InventoryDashboard.Domain/1.0.0": {
+        "runtime": {
+          "InventoryDashboard.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventoryDashboard.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryDashboard.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\InventoryDashboard\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.webapi\\middleware\\randomfailuremiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|solutionrelative:src\\inventorydashboard.webapi\\middleware\\randomfailuremiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|solutionrelative:src\\inventorydashboard.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.webapi\\inventorydashboard.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|solutionrelative:src\\inventorydashboard.webapi\\inventorydashboard.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.webapi\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|solutionrelative:src\\inventorydashboard.webapi\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.webapi\\services\\stocktickerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|solutionrelative:src\\inventorydashboard.webapi\\services\\stocktickerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E32DAAD-2B9A-4C45-9870-7FC7E155A8FD}|src\\InventoryDashboard.Application\\InventoryDashboard.Application.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.application\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E32DAAD-2B9A-4C45-9870-7FC7E155A8FD}|src\\InventoryDashboard.Application\\InventoryDashboard.Application.csproj|solutionrelative:src\\inventorydashboard.application\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E32DAAD-2B9A-4C45-9870-7FC7E155A8FD}|src\\InventoryDashboard.Application\\InventoryDashboard.Application.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.application\\models\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E32DAAD-2B9A-4C45-9870-7FC7E155A8FD}|src\\InventoryDashboard.Application\\InventoryDashboard.Application.csproj|solutionrelative:src\\inventorydashboard.application\\models\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E32DAAD-2B9A-4C45-9870-7FC7E155A8FD}|src\\InventoryDashboard.Application\\InventoryDashboard.Application.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.application\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E32DAAD-2B9A-4C45-9870-7FC7E155A8FD}|src\\InventoryDashboard.Application\\InventoryDashboard.Application.csproj|solutionrelative:src\\inventorydashboard.application\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17EC44-E8CF-435C-99D4-F7FF1B9D9056}|src\\InventoryDashboard.Infrastructure\\InventoryDashboard.Infrastructure.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.infrastructure\\repositories\\inmemorystockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17EC44-E8CF-435C-99D4-F7FF1B9D9056}|src\\InventoryDashboard.Infrastructure\\InventoryDashboard.Infrastructure.csproj|solutionrelative:src\\inventorydashboard.infrastructure\\repositories\\inmemorystockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D83F576-407D-4EC9-89B3-1724AFFCE3D9}|src\\InventoryDashboard.Domain\\InventoryDashboard.Domain.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.domain\\entities\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D83F576-407D-4EC9-89B3-1724AFFCE3D9}|src\\InventoryDashboard.Domain\\InventoryDashboard.Domain.csproj|solutionrelative:src\\inventorydashboard.domain\\entities\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C17EC44-E8CF-435C-99D4-F7FF1B9D9056}|src\\InventoryDashboard.Infrastructure\\InventoryDashboard.Infrastructure.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.infrastructure\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C17EC44-E8CF-435C-99D4-F7FF1B9D9056}|src\\InventoryDashboard.Infrastructure\\InventoryDashboard.Infrastructure.csproj|solutionrelative:src\\inventorydashboard.infrastructure\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|d:\\projects\\inventorydashboard\\backend\\src\\inventorydashboard.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3845F5D9-6151-460C-99D0-37092DF40B2A}|src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.csproj|solutionrelative:src\\inventorydashboard.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.WebApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:37:20.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Application\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.Application\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Application\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.Application\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:34:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Domain\\Entities\\StockItem.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.Domain\\Entities\\StockItem.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Domain\\Entities\\StockItem.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.Domain\\Entities\\StockItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:28:35.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Infrastructure\\Seed\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.Infrastructure\\Seed\\DataSeeder.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Infrastructure\\Seed\\DataSeeder.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.Infrastructure\\Seed\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:28:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemoryStockRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Infrastructure\\Repositories\\InMemoryStockRepository.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.Infrastructure\\Repositories\\InMemoryStockRepository.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Infrastructure\\Repositories\\InMemoryStockRepository.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.Infrastructure\\Repositories\\InMemoryStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:26:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Application\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.Application\\Services\\StockService.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Application\\Services\\StockService.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.Application\\Services\\StockService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:22:25.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Application\\Models\\StockDto.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.Application\\Models\\StockDto.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.Application\\Models\\StockDto.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.Application\\Models\\StockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T07:22:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryDashboard.WebApi.http",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.http",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.http",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.http",
+              "RelativeToolTip": "src\\InventoryDashboard.WebApi\\InventoryDashboard.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-10T19:20:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.WebApi\\Controllers\\StocksController.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.WebApi\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:19:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomFailureMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Middleware\\RandomFailureMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.WebApi\\Middleware\\RandomFailureMiddleware.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Middleware\\RandomFailureMiddleware.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.WebApi\\Middleware\\RandomFailureMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:19:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.WebApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\InventoryDashboard.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T19:19:21.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockTickerService.cs",
+              "DocumentMoniker": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Services\\StockTickerService.cs",
+              "RelativeDocumentMoniker": "src\\InventoryDashboard.WebApi\\Services\\StockTickerService.cs",
+              "ToolTip": "D:\\Projects\\InventoryDashboard\\Backend\\src\\InventoryDashboard.WebApi\\Services\\StockTickerService.cs",
+              "RelativeToolTip": "src\\InventoryDashboard.WebApi\\Services\\StockTickerService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:19:06.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

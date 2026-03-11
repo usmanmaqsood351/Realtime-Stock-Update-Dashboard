@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InventoryDashboard.Application\InventoryDashboard.Application.csproj" />
+    <ProjectReference Include="..\InventoryDashboard.Infrastructure\InventoryDashboard.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

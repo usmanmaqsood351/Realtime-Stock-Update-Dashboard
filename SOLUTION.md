@@ -1,4 +1,8 @@
-﻿# Solution Overview
+
+ 
+ <img width="1122" height="644" alt="image" src="https://github.com/user-attachments/assets/05b38e81-589f-4b8f-a2e9-b0687b47f878" />
+
+ # Solution Overview
 
 This repository contains two separate solutions:
 
